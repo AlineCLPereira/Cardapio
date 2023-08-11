@@ -1,0 +1,7 @@
+head 
+body {
+   font-size: 12pt;background-color: darkcyan;}
+h1{  font-size: 18px;background-color: #c92b9e;border-radius:10px; text-align: center}
+   li{background-color: rebeccapurple;text-align: center;}
+img{width: 304px;height: 250px;border-radius:15px;} 
+footer { text-align:center; text-justify: center} 
